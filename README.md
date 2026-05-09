@@ -29,6 +29,23 @@ through self study and hands on projects.
 
 ---
 
+## 🚀 Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [🤖 AI CLI Chatbot](https://github.com/afridahmed/ai-cli-chatbot) | Conversational AI chatbot with memory | Python, Groq, LLaMA 3.3 |
+| [⛅ Weather App](https://github.com/afridahmed/weather-app) | Real-time weather data for any city | Python, OpenWeatherMap API |
+| [🎯 Number Guessing Game](https://github.com/afridahmed/number-guessing-game) | Terminal game with difficulty levels | Python |
+| [🧮 Calculator](https://github.com/afridahmed/calculator) | Basic calculator | Python |
+
+---
+
+## 📊 GitHub Stats
+
+![Afrid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afridahmed&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afridahmed&layout=compact&theme=tokyonight)
+
 ## Leadership & Achievements
 
 - 🏅 Senior Prefect — Ku/Giri Madeena National School
