@@ -29,14 +29,6 @@ through self study and hands on projects.
 
 ---
 
-## Projects
-
-### 🌐 Personal Web Page
-> A static webpage built with HTML & CSS to showcase my profile and interests.
-> Focused on clean structure and foundational styling.
-
----
-
 ## Leadership & Achievements
 
 - 🏅 Senior Prefect — Ku/Giri Madeena National School
